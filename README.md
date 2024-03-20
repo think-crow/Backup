@@ -1,5 +1,5 @@
 # blog-creazy_giscus
-为blog-creazy的评论保存位置
+本仓库为blog-creazy项目 评论 的存储位置
 #
 blog-creazy个人博客项目采用giscus评论系统
 #
